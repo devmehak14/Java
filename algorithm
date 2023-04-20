@@ -1,0 +1,5 @@
+Moure's voting algorithm
+
+keep the track of maximum value from array and count of that value.
+
+this algorithm only work when atleast one element's count is greater than n/2 (n--> size of array)
